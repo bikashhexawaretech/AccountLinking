@@ -1,0 +1,8 @@
+{
+    "subCategories" : {
+    "hardware" :["CPU","Disk","Keyboard", "Memory", "Monitor", "Mouse"],
+    "software" :["Email", "Operating System"],
+    "inquiry" :["Antivirus", "Email", "Internal Application"],
+    "network" : ["DHCP", "DNS", "IP Address", "VPN", "Wireless"]
+    }
+}
